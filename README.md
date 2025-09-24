@@ -6,4 +6,4 @@ The software is being developed to plan tasks and projects in a structured way. 
 ## First idea
 Here are the first sketches. This is the initial concept to get started.
 
-*This is my first project in this enviroment :) please have mercy*
+*This is my first project in this enviroment :) please be gentle*
