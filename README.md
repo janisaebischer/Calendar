@@ -5,5 +5,7 @@ The software is being developed to plan tasks and projects in a structured way. 
 
 ## First idea
 Here are the first sketches. This is the initial concept to get started.
+![Marketing concept](https://github.com/janisaebischer/Calendar/blob/main/Conception/Calendar_concept_marketing.svg)
+
 
 *This is my first project in this enviroment :) please be gentle*
